@@ -8,7 +8,7 @@ from datetime import datetime
 import ssl
 from urllib.parse import quote 
  
-openai.api_key = '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'
+openai.api_key = 'your API code'
 
 app = Flask(__name__)
 app.secret_key = 'zZIZC6ZUxbqQWE8qIGSf'
